@@ -56,9 +56,6 @@ The current version of the code project includes the following folders.
 
 ## 2. Dependency
 
-Please make sure that the following packages have already been installed before use of the SafePDP package or JinEnv
-Package.
-
 * CasADi: version >= 3.5.1. Info: https://web.casadi.org/
 * Numpy: version >= 1.18.1. Info: https://numpy.org/
 * Matplotlib: version >= 3.3.3. Info: https://matplotlib.org/
@@ -129,7 +126,7 @@ _Note that: all interfaces within `SafePDP.py` module are corresponding to the t
 carefully before understanding these interfaces._
 
 
-## 5. Citation
+## 4. Citation
 
 If you have difficulty to understand the code, please contact me by email: wanxinjin@gmail.com
 
