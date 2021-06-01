@@ -17,7 +17,7 @@ at any stage of the learning and control progress. Safe PDP has the following ke
 
 Please find the technical details of Safe PDP in our paper:
 https://arxiv.org/abs/2105.14937,
-co-authored by [Wanxin Jin](https://wanxinjin.github.io/) (Purdue University),
+by [Wanxin Jin](https://wanxinjin.github.io/) (Purdue University),
 [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981) (Purdue University),
 [George J. Pappas](https://www.georgejpappas.org/) (University of Pennsylvania)
 
