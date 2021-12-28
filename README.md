@@ -21,6 +21,8 @@ by [Wanxin Jin](https://wanxinjin.github.io/) (Purdue University),
 [Shaoshuai Mou](https://engineering.purdue.edu/AAE/people/ptProfile?resource_id=124981) (Purdue University),
 [George J. Pappas](https://www.georgejpappas.org/) (University of Pennsylvania)
 
+This paper has been accepted in NeurIPS 2021.
+
 ## 1. Project Overview
 
 The current version of the code project includes the following folders.
@@ -130,7 +132,14 @@ carefully before understanding these interfaces._
 
 If you have difficulty to understand the code, please contact me by email: wanxinjin@gmail.com
 
-If you find this work helpful in your research, please consider citing our paper: https://arxiv.org/abs/2105.14937.
+If you find this work helpful in your research, please consider citing our paper
+
+    @article{jin2021safe,
+      title={Safe Pontryagin Differentiable Programming},
+      author={Jin, Wanxin and Mou, Shaoshuai and Pappas, George J},
+      journal={arXiv preprint arXiv:2105.14937},
+      year={2021}
+    }
 
 
 
