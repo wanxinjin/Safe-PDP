@@ -134,12 +134,13 @@ If you have difficulty to understand the code, please contact me by email: wanxi
 
 If you find this work helpful in your research, please consider citing our paper
 
-    @article{jin2021safe,
-      title={Safe Pontryagin Differentiable Programming},
-      author={Jin, Wanxin and Mou, Shaoshuai and Pappas, George J},
-      journal={arXiv preprint arXiv:2105.14937},
-      year={2021}
-    }
-
+      @article{jin2021safe,
+        title={Safe pontryagin differentiable programming},
+        author={Jin, Wanxin and Mou, Shaoshuai and Pappas, George J},
+        journal={Advances in Neural Information Processing Systems},
+        volume={34},
+        pages={16034--16050},
+        year={2021}
+      }
 
 
